@@ -1,3 +1,4 @@
 # hello-world
 for cloudy
-Tell Ximba not to bark
+Hi Dear Cloudy:
+Tell Ximba not to bark. We are going to roam in the woods tonight.
